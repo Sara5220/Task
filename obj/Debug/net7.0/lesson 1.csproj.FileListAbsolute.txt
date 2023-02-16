@@ -1,0 +1,33 @@
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\appsettings.json
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\lesson 1.exe
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\lesson 1.deps.json
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\lesson 1.runtimeconfig.json
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\lesson 1.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\lesson 1.pdb
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.csproj.AssemblyReference.cache
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.AssemblyInfo.cs
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\staticwebassets\msbuild.lesson 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\staticwebassets\msbuild.build.lesson 1.props
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lesson 1.props
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lesson 1.props
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\scopedcss\bundle\lesson 1.styles.css
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.csproj.CopyComplete
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\refint\lesson 1.dll
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.pdb
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\lesson 1.genruntimeconfig.cache
+C:\Users\This_user\Desktop\תכנות יד\core\שעורי בית\lesson 1\obj\Debug\net7.0\ref\lesson 1.dll
