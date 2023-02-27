@@ -1,34 +1,36 @@
 using lesson_1.Models;
 using System.Collections.Generic;
 using System.Linq;
+using lesson_1.Interfaces;
 
-namespace lesson_1.Controllers
+namespace lesson_1.Services
 {
-    public static class TaskService
+
+    public class TaskService : ITaskManager
     {
-        private static List<MyTask> tasks = new List<MyTask>
+        private List<MyTask> tasks = new List<MyTask>
         {
             new MyTask(){Id=1, Description="task1", IsDone=false},
             new MyTask(){Id=2, Description="task2", IsDone=true}
         };
 
-        public static List<MyTask> GetAll()
+        public List<MyTask> GetAll()
         {
             return tasks;
         }
 
-        public static MyTask Get(int id)
+        public MyTask Get(int id)
         {
             return tasks.FirstOrDefault(t => t.Id == id);
         }
 
-        public static void Add(MyTask task)
+        public void Add(MyTask task)
         {
               task.Id=tasks.Max(t=> t.Id)+1;
               tasks.Add(task);
         }
 
-        public static bool Update(int id, MyTask newTask)
+        public bool Update(int id, MyTask newTask)
         {
             if(newTask.Id!=id)
                 return false;
@@ -41,7 +43,7 @@ namespace lesson_1.Controllers
             return true;
         }
 
-        public static bool Delete(int id)
+        public bool Delete(int id)
         { 
             var t=tasks.FirstOrDefault(t => t.Id == id);
             if(t==null)
